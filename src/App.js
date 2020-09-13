@@ -99,7 +99,7 @@ export default class App extends React.Component {
         <footer style={footerStyle}>
           Bozhidar Kirilov © 2020 <br></br>
           <a
-            href="https://www.linkedin.com/in/bozhidar-kirilov-7b08a91b2/"
+            href="https://www.linkedin.com/in/bozhidar-kirilov/"
             target="_blank"
           >
             <i class="fab fa-linkedin" style={linkedinStyle}></i>
